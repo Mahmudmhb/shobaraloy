@@ -22,7 +22,7 @@ const Bannar = () => {
                 {/* Content */}
                 <div className="hero-content text-white text-center relative z-50">
                     <div className="">
-                        <h1 className="mb-5 text-5xl font-bold">Discover Your <span className="text-[#088dcd] underline">Shobaraloy</span> Knowledge</h1>
+                        <h1 className="mb-5 md:text-5xl font-bold">Discover Your <span className="text-[#088dcd] underline">Shobaraloy</span> Knowledge</h1>
                         <p className="mb-5">
                             and stay connected with
                             <span className="text-[#088dcd] underline ml-3 font-bold text-2xl">

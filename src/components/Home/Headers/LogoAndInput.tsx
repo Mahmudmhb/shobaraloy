@@ -5,8 +5,8 @@ const LogoAndInput = () => {
         <div>
              <div className="flex gap-3 items-center">
             <h1>logo</h1>
-            <h1>Shobaraloy</h1>
-            <div>
+            <h1 className=' hidden md:flex'>Shobaraloy</h1>
+            <div className='hidden md:flex'>
                 <label className="input rounded-3xl flex items-center gap-2">
                     <svg
                         xmlns="http://www.w3.org/2000/svg"

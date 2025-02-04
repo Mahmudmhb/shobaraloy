@@ -7,7 +7,7 @@ import { TiInputChecked } from 'react-icons/ti';
 
 const Learn = () => {
     return (<div className='w-11/12 mx-auto space-y-20'>
-        <div className=' flex gap-4 '>
+        <div className=' md:grid grid-cols-3 gap-4'>
             <div className='flex gap-4 bg-[#f5f5f5] rounded-2xl shadow p-5'>
                 <div>
 
@@ -44,7 +44,7 @@ const Learn = () => {
             </div>
         </div>
         <div>
-            <div className=' w-11/12 mx-auto flex justify-between gap-5'>
+            <div className=' w-11/12 mx-auto md:flex justify-between gap-5 sm:space-y-5'>
                 <div className='flex flex-col  items-center justify-center   rounded-2xl shadow p-5 '>
 
 

@@ -8,8 +8,10 @@ const HeaderHome = () => {
                 <LogoAndInput/>
             </div>
             <div className='flex gap-3'>
-            <button className=" border px-4 py-1  rounded-3xl">Today`s Newsfeed</button>
-            <button>Help</button>
+          <div className='md:flex gap-3 hidden'>
+          <button className=" border px-4 py-1  rounded-3xl">Today`s Newsfeed</button>
+          <button>Help</button>
+          </div>
             <button>Login / Register</button>
 
             </div>

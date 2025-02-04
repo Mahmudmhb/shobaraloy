@@ -1,10 +1,10 @@
-import Header from '@/components/Home/Headers/Header';
+import HeaderHome from '@/components/Home/Headers/HeaderHome';
 import React, { ReactNode } from 'react';
 
 const layout = ({children}: {children:ReactNode}) => {
     return (
         <div>
-            <Header/>
+            <HeaderHome/>
             {children}
         </div>
     );

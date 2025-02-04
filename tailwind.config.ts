@@ -6,7 +6,7 @@ export default {
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
-    "./node_modules/@heroui/theme/dist/components/(avatar|badge|button|popover|ripple|spinner).js"
+    "./node_modules/@heroui/theme/dist/components/(avatar|badge|button|card|popover|ripple|spinner).js"
   ],
   theme: {
     extend: {

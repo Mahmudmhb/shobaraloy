@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
+    "json-server": "json-server --watch blogs.json --port 5000",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -12,10 +13,12 @@
     "@heroui/avatar": "^2.2.7",
     "@heroui/badge": "^2.2.6",
     "@heroui/button": "^2.2.10",
+    "@heroui/card": "^2.2.10",
     "@heroui/system": "^2.4.7",
     "@heroui/theme": "^2.4.6",
     "@heroui/tooltip": "^2.2.8",
     "framer-motion": "^12.0.11",
+    "json-server": "^1.0.0-beta.3",
     "next": "15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

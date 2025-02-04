@@ -2,6 +2,7 @@ import AdvanceBannar from '@/components/Home/AdvanceBannar/AdvanceBannar';
 import Bannar from '@/components/Home/Bannar/Bannar';
 import Impact from '@/components/Home/Impact/Impact';
 import Learn from '@/components/Home/Learn/Learn';
+import RecentEvent from '@/components/Home/RecentEvent/RecentEvent';
 import React from 'react';
 
 const Home = () => {
@@ -11,6 +12,7 @@ const Home = () => {
             <Learn/>
             <Impact/>
             <AdvanceBannar/>
+            <RecentEvent/>
         </div>
     );
 };

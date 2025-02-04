@@ -1,0 +1,85 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "image": "https://example.com/image1.jpg",
+      "authorImage": "https://example.com/author1.jpg",
+      "name": "John Doe",
+      "heading": "New Tech Trends",
+      "description": "Exploring the latest advancements in technology and how they shape our world.",
+      "date": "2025-02-04"
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/image2.jpg",
+      "authorImage": "https://example.com/author2.jpg",
+      "name": "Jane Smith",
+      "heading": "AI in Everyday Life",
+      "description": "How artificial intelligence is transforming daily activities and businesses.",
+      "date": "2025-02-01"
+    },
+    {
+      "id": 3,
+      "image": "https://example.com/image3.jpg",
+      "authorImage": "https://example.com/author3.jpg",
+      "name": "Mike Johnson",
+      "heading": "Web Development Future",
+      "description": "An insight into the latest web development trends and future possibilities.",
+      "date": "2025-01-29"
+    },
+    {
+      "id": 4,
+      "image": "https://example.com/image4.jpg",
+      "authorImage": "https://example.com/author4.jpg",
+      "name": "Emily White",
+      "heading": "Health & Technology",
+      "description": "How modern technology is revolutionizing the healthcare industry.",
+      "date": "2025-01-22"
+    },
+    {
+      "id": 5,
+      "image": "https://example.com/image5.jpg",
+      "authorImage": "https://example.com/author5.jpg",
+      "name": "David Brown",
+      "heading": "Space Exploration 2025",
+      "description": "Upcoming space missions and discoveries shaping our understanding of the universe.",
+      "date": "2025-01-18"
+    },
+    {
+      "id": 6,
+      "image": "https://example.com/image6.jpg",
+      "authorImage": "https://example.com/author6.jpg",
+      "name": "Sarah Green",
+      "heading": "The Future of Work",
+      "description": "Exploring remote work trends, AI automation, and workplace evolution.",
+      "date": "2025-01-10"
+    },
+    {
+      "id": 7,
+      "image": "https://example.com/image7.jpg",
+      "authorImage": "https://example.com/author7.jpg",
+      "name": "Robert Wilson",
+      "heading": "Cybersecurity Today",
+      "description": "Key challenges and solutions in the world of cybersecurity in 2025.",
+      "date": "2025-01-05"
+    },
+    {
+      "id": 8,
+      "image": "https://example.com/image8.jpg",
+      "authorImage": "https://example.com/author8.jpg",
+      "name": "Laura Adams",
+      "heading": "Climate Change & Tech",
+      "description": "How technology is helping in the fight against climate change.",
+      "date": "2025-01-02"
+    },
+    {
+      "id": 9,
+      "image": "https://example.com/image9.jpg",
+      "authorImage": "https://example.com/author9.jpg",
+      "name": "Tom Clark",
+      "heading": "Blockchain Beyond Crypto",
+      "description": "Exploring blockchain’s applications beyond cryptocurrency.",
+      "date": "2024-12-30"
+    }
+  ]
+}

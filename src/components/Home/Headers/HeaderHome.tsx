@@ -1,5 +1,6 @@
 import React from 'react';
 import LogoAndInput from './LogoAndInput';
+import Link from 'next/link';
 
 const HeaderHome = () => {
     return (
@@ -13,7 +14,8 @@ const HeaderHome = () => {
           <button className=" border px-4 py-1  rounded-3xl">Today`s Newsfeed</button>
           <button>Help</button>
           </div>
-            <button>Login / Register</button>
+            <button></button>
+            <Link href='/login'>Login / Register </Link>
 
             </div>
         </div>

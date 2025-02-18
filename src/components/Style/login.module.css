@@ -1,0 +1,30 @@
+.imageAnimation {
+  position: relative;
+  animation-name: imageAnimation; /* Corrected animation name */
+  animation-duration: 4s;
+  animation-iteration-count: infinite; /* Continuous animation */
+}
+
+@keyframes imageAnimation {
+  /* Matching keyframe name */
+  0% {
+    left: 0px;
+    top: 0px;
+  }
+  25% {
+    left: 100px;
+    top: 0px;
+  }
+  50% {
+    left: -100px;
+    top: 0px;
+  }
+  75% {
+    left: -50px;
+    top: 0px;
+  }
+  100% {
+    left: 0px;
+    top: 0px;
+  }
+}
